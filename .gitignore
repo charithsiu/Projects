@@ -10,3 +10,6 @@ my_dataset.pkl
 my_feature_list.pkl
 .DS_Store
 __pycache__
+ud120-projects/
+*.json
+enron_mail_20150507.tar.gz
